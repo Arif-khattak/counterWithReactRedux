@@ -1,0 +1,13 @@
+.control{
+    margin-top: 10px;
+}
+.input{
+    max-width: 130px;
+    background-color: lightgoldenrodyellow;
+    border: 30x solid black;
+    
+}
+.button{
+   font-weight: bold;
+
+}
